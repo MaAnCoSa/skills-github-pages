@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Manuel's Awesome Page
 ---
 
+## Hello world!
